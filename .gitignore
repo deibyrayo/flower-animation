@@ -1,0 +1,32 @@
+# Archivos de sistema de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos creados por la caché de macOS
+*.swp
+*.swo
+
+# Archivos específicos de la aplicación de macOS
+*.db
+*.sqlite
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de estado de las aplicaciones
+*.lock
+*.pid
+
+# Carpetas de caché
+*.cache
+*.tmp
+*.log
+
+# Archivos de servicios de macOS
+*.plist
+*.DS_Store
+*.localized
+
+# Otras configuraciones de sistema
+.Trashes
+.fseventsd
