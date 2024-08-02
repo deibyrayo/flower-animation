@@ -2,6 +2,8 @@
 
 "A bouquet for you" is an interactive web page that features an animation of a bouquet of flowers on a dark background. The animation includes moving petals, leaves, thorns, and a glow effect on the bouquet. The message at the bottom of the page expresses a romantic sentiment.
 
+![img-project](img/img.png)
+
 ## Project Description
 
 - **HTML and CSS**: Uses HTML and CSS to structure and style the web page.
